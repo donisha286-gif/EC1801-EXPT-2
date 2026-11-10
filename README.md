@@ -1,3 +1,4 @@
+
 # EXPT 2 - Verification of Logic Gates
 ### SIMULATION AND VERIFICATION OF AND, OR, AND NOT GATES
 ## Aim
@@ -79,7 +80,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 Output
 # OUTPUT
 
-
+<img width="1917" height="982" alt="Screenshot 2026-11-10 142723" src="https://github.com/user-attachments/assets/8e186d7a-d29b-490c-b27d-479a71565b0b" />
  
 # Viva-Voce Questions
 
